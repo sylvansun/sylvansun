@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning Operating Systems(which is extremely hard), CV and NLP(which I don't enjoy very much!)
 - 📫 How to reach me: My SJTU email address is available on github.
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SylvanSun&show_icons=true&count_private=true&include_all_commits=true&hide=" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvanSun&count_private=true&include_all_commits=false&hide=" />
-</div>
 
 
 <!--

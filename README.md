@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
-- 🔭 I’m currently working on course projects of 2022 fall semester
-- 🌱 I’m currently learning Operating Systems(which is extremely hard), CV and NLP(which I don't enjoy very much!)
+- 🔭 I’m currently in between projects.
+- 🌱 I have finished 2022-2023 Fall Semester and enjoying winter vacation at home.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 

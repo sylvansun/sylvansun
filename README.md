@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
-- 🔭 I’m currently in between projects.
-- 🌱 I have finished 2022-2023 Fall Semester and enjoying winter vacation at home.
+- 🔭 I’m currently learning computer networks and database systems.
+- 🌱 My goal is to catch up with CS students by re-learning the missed core CS courses.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 

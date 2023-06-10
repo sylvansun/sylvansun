@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
-- 🔭 I’m currently learning computer networks and database systems.
-- 🌱 My goal is to catch up with CS students by re-learning the missed core CS courses.
+- 🔭 I’m currently finishing coursework this semester and a little behind schedule.
+- 🌱 I will work with RTN infrastructure team, Multimedia Network Group of Bytedance in the upcoming months.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 

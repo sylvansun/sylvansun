@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
-- 🔭 I’m currently finishing coursework this semester and a little behind schedule.
-- 🌱 I will work with RTN infrastructure team, Multimedia Network Group of Bytedance in the upcoming months.
+- 🔭 I’m currently working with RTN infrastructure team, Multimedia Network Group of Bytedance on rtc_route & edge_controller development.
+- 🌱 I have finished undergraduate coursework and prepare to start my summer vacation.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 

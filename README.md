@@ -5,8 +5,8 @@
 - 📫 How to reach me: My SJTU email address is available on github.
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvanSun&hide=tex,MATLAB&theme=merko&layout=compact" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=SylvanSun&theme=merko&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvanSun&hide=tex,MATLAB&theme=merko&layout=compact" width=300 />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=SylvanSun&theme=merko&layout=compact" width=400 />
 </div>
 
 <!--

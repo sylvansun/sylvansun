@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
-- 🔭 I’m currently working with RTN(Realtime Transport Network) infrastructure team, Bytedance Multimedia Network Group on routing system backend development.
-- 🌱 I'm applying for MSCS positions as of Fall, 2024.
+- 🔭 I’m currently preparing my Graduation Design.
+- 🌱 I'll fly home for the last Spring Festival before studying abroad.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 <div>

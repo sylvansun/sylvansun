@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm @SylvanSun from SJTU
 
 - 🔭 I’m currently preparing my Graduation Design.
-- 🌱 I'll fly home for the last Spring Festival before studying abroad.
+- 🌱 I'll fly to the US for graduate studies in fall 2024.
 - 📫 How to reach me: My SJTU email address is available on github.
 
 <div>

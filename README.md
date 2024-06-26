@@ -1,8 +1,5 @@
-### Hi there 👋, I'm @SylvanSun from SJTU
+### Hi there 👋, I'm @SylvanSun from SJTU and UCLA MSCS
 
-- 🔭 I’m currently preparing my Graduation Design.
-- 🌱 I'll fly to the US for graduate studies in fall 2024.
-- 📫 How to reach me: My SJTU email address is available on github.
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=SylvanSun&theme=merko&layout=compact&line_height=45&langs_count=6" width=400 />
